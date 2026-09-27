@@ -1,2 +1,3 @@
-# my-first-repo
+# Cool first project
+
 Cool first project
